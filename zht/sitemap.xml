@@ -31,5 +31,17 @@
                 hreflang="zht"
                 href="/zht/"
                 />
+  </url><url>
+    <loc>/zht/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/search/"
+                />
   </url>
 </urlset>
