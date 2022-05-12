@@ -55,8 +55,16 @@
                 />
   </url><url>
     <loc>/archives/</loc>
-  </url><url>
-    <loc>/archives.zh-hant/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/archives/"
+                />
   </url><url>
     <loc>/search.zh-hant/</loc>
   </url><url>

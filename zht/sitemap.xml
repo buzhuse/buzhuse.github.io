@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/zht/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/archives/"
+                />
+  </url><url>
     <loc>/zht/zhtcategories/</loc>
   </url><url>
     <loc>/zht/zhtseries/</loc>
