@@ -2,12 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/zh-hans/sitemap.xml</loc>
+    <loc>/zhs/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>/zh-hant/sitemap.xml</loc>
+    <loc>/zht/sitemap.xml</loc>
     
   </sitemap>
   
