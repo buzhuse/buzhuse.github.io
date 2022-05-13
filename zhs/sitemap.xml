@@ -2,32 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/series/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/series/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/tags/"
-                />
-  </url><url>
     <loc>/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
     <xhtml:link
@@ -91,6 +65,32 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="/categories/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/"
                 />
   </url><url>
     <loc>/categories/%E7%BB%8F%E5%85%B8%E5%AD%A6%E4%B9%A0/</loc>

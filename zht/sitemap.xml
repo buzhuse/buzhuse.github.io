@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zht/series/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/series/"
-                />
-  </url><url>
     <loc>/zht/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
     <xhtml:link
@@ -91,6 +78,19 @@
                 rel="alternate"
                 hreflang="zht"
                 href="/zht/tags/"
+                />
+  </url><url>
+    <loc>/zht/series/</loc>
+    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/"
                 />
   </url><url>
     <loc>/zht/categories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/</loc>
