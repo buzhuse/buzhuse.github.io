@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zhttags on 不住色</title>
-    <link>/zht/zhttags/</link>
-    <description>Recent content in Zhttags on 不住色</description>
+    <title>文章標簽 on 不住色</title>
+    <link>/zht/tags/</link>
+    <description>Recent content in 文章標簽 on 不住色</description>
     <image>
       <url>/papermod-cover.png</url>
       <link>/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/zht/zhttags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/zht/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>儒家</title>
-      <link>/zht/zhttags/%E5%84%92%E5%AE%B6/</link>
+      <link>/zht/tags/%E5%84%92%E5%AE%B6/</link>
       <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/zht/zhttags/%E5%84%92%E5%AE%B6/</guid>
+      <guid>/zht/tags/%E5%84%92%E5%AE%B6/</guid>
       <description></description>
     </item>
     

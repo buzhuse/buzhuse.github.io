@@ -9,6 +9,16 @@
       <link>/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language>
+    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大学</title>
+      <link>/series/%E5%A4%A7%E5%AD%A6/</link>
+      <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
+      
+      <guid>/series/%E5%A4%A7%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
