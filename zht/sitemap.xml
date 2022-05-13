@@ -2,30 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zht/posts/daxue.html</loc>
+    <loc>/zht/jingdian/daxue/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/posts/daxue.html"
+                href="/jingdian/daxue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/posts/daxue.html"
-                />
-  </url><url>
-    <loc>/zht/posts/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/posts/"
+                href="/zht/jingdian/daxue/"
                 />
   </url><url>
     <loc>/zht/zhtcategories/</loc>
@@ -53,7 +40,44 @@
     <loc>/zht/zhtcategories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
   </url><url>
+    <loc>/zht/jingdian/</loc>
+    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/jingdian/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/jingdian/"
+                />
+  </url><url>
     <loc>/zht/zhtseries/</loc>
+  </url><url>
+    <loc>/zht/xiuxing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/xiuxing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/xiuxing/"
+                />
+  </url><url>
+    <loc>/zht/jiese/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/jiese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/jiese/"
+                />
   </url><url>
     <loc>/zht/search/</loc>
     <xhtml:link
@@ -77,6 +101,18 @@
                 rel="alternate"
                 hreflang="zht"
                 href="/zht/archives/"
+                />
+  </url><url>
+    <loc>/zht/yangsheng/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/yangsheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/yangsheng/"
                 />
   </url>
 </urlset>
