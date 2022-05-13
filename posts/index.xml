@@ -10,14 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>大学</title>
+      <link>/posts/daxue/</link>
+      <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/posts/markdown-syntax/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <guid>/posts/daxue/</guid>
+      <description>大学之道</description>
     </item>
     
   </channel>
