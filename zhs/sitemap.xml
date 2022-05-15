@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -13,6 +13,123 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="/"
+                />
+  </url><url>
+    <loc>/posts/jieyou/2022/chanhui/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/jieyou/2022/chanhui/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/jieyou/2022/chanhui/"
+                />
+  </url><url>
+    <loc>/tags/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/tags/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/tags/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+  </url><url>
+    <loc>/series/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+  </url><url>
+    <loc>/categories/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/categories/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/categories/%E6%88%92%E5%8F%8B%E5%88%86%E4%BA%AB/"
+                />
+  </url><url>
+    <loc>/posts/jieyou/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/jieyou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/jieyou/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/"
                 />
   </url><url>
     <loc>/tags/%E5%84%92%E5%AE%B6/</loc>
@@ -31,108 +148,69 @@
     <loc>/series/%E5%A4%A7%E5%AD%A6/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
   </url><url>
-    <loc>/jingdian/daxue/</loc>
+    <loc>/posts/jingdian/daxue/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/jingdian/daxue/"
+                href="/zht/posts/jingdian/daxue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/jingdian/daxue/"
-                />
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/tags/"
-                />
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-05-13T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/series/"
+                href="/posts/jingdian/daxue/"
                 />
   </url><url>
     <loc>/categories/%E7%BB%8F%E5%85%B8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
   </url><url>
-    <loc>/jingdian/</loc>
+    <loc>/posts/jingdian/</loc>
     <lastmod>2022-05-13T10:50:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/jingdian/"
+                href="/zht/posts/jingdian/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/jingdian/"
+                href="/posts/jingdian/"
                 />
   </url><url>
-    <loc>/xiuxing/</loc>
+    <loc>/posts/xiuxing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/xiuxing/"
+                href="/zht/posts/xiuxing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/xiuxing/"
+                href="/posts/xiuxing/"
                 />
   </url><url>
-    <loc>/yangsheng/</loc>
+    <loc>/posts/yangsheng/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/yangsheng/"
+                href="/zht/posts/yangsheng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/yangsheng/"
+                href="/posts/yangsheng/"
                 />
   </url><url>
-    <loc>/jiese/</loc>
+    <loc>/posts/jiese/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="/zht/jiese/"
+                href="/zht/posts/jiese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="/jiese/"
+                href="/posts/jiese/"
                 />
   </url><url>
     <loc>/search/</loc>
