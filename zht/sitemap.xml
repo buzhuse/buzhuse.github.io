@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/zht/</loc>
-    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -13,6 +13,93 @@
                 rel="alternate"
                 hreflang="zht"
                 href="/zht/"
+                />
+  </url><url>
+    <loc>/zht/categories/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/categories/"
+                />
+  </url><url>
+    <loc>/zht/posts/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/"
+                />
+  </url><url>
+    <loc>/zht/tags/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/tags/"
+                />
+  </url><url>
+    <loc>/zht/series/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/"
+                />
+  </url><url>
+    <loc>/zht/posts/yangsheng/2022/niaofeishi/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/yangsheng/2022/niaofeishi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/yangsheng/2022/niaofeishi/"
+                />
+  </url><url>
+    <loc>/zht/tags/%E9%A4%8A%E7%94%9F/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/zht/series/%E9%A4%8A%E7%94%9F/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/zht/categories/%E9%A4%8A%E7%94%9F%E4%B9%8B%E9%81%93/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/zht/posts/yangsheng/</loc>
+    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/yangsheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/yangsheng/"
                 />
   </url><url>
     <loc>/zht/posts/jieyou/2022/chanhui-01/</loc>
@@ -58,58 +145,6 @@
                 rel="alternate"
                 hreflang="zht"
                 href="/zht/posts/jieyou/"
-                />
-  </url><url>
-    <loc>/zht/categories/</loc>
-    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/categories/"
-                />
-  </url><url>
-    <loc>/zht/posts/</loc>
-    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/posts/"
-                />
-  </url><url>
-    <loc>/zht/tags/</loc>
-    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/tags/"
-                />
-  </url><url>
-    <loc>/zht/series/</loc>
-    <lastmod>2022-05-15T10:50:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/series/"
                 />
   </url><url>
     <loc>/zht/posts/jingdian/daxue/</loc>
@@ -203,18 +238,6 @@
                 rel="alternate"
                 hreflang="zht"
                 href="/zht/archives/"
-                />
-  </url><url>
-    <loc>/zht/posts/yangsheng/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/posts/yangsheng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/posts/yangsheng/"
                 />
   </url>
 </urlset>

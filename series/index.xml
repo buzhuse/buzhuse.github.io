@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 15 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 16:00:00 +0800</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>养生</title>
+      <link>/series/%E5%85%BB%E7%94%9F/</link>
+      <pubDate>Mon, 29 Aug 2022 16:00:00 +0800</pubDate>
+      
+      <guid>/series/%E5%85%BB%E7%94%9F/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>忏悔</title>
       <link>/series/%E5%BF%8F%E6%82%94/</link>
