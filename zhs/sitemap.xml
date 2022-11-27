@@ -2,6 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/series/"
+                />
+  </url><url>
+    <loc>/tags/%E6%9E%9C%E6%8A%A5/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/series/%E6%9E%9C%E6%8A%A5/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>/posts/guobao/2022/xinhuang/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/guobao/2022/xinhuang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/guobao/2022/xinhuang/"
+                />
+  </url><url>
+    <loc>/posts/guobao/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="/zht/posts/guobao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="/posts/guobao/"
+                />
+  </url><url>
+    <loc>/categories/%E9%82%AA%E6%B7%AB%E6%9E%9C%E6%8A%A5/</loc>
+    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+  </url><url>
     <loc>/posts/jingdian/xinjing/</loc>
     <lastmod>2022-09-04T09:20:00+08:00</lastmod>
     <xhtml:link
@@ -13,19 +113,6 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="/posts/jingdian/xinjing/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/"
                 />
   </url><url>
     <loc>/tags/%E4%BD%9B%E5%AE%B6/</loc>
@@ -43,58 +130,6 @@
   </url><url>
     <loc>/series/%E5%BF%83%E7%BB%8F/</loc>
     <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/posts/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/tags/"
-                />
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-09-04T09:20:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="/zht/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="/series/"
-                />
   </url><url>
     <loc>/categories/%E7%BB%8F%E5%85%B8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-09-04T09:20:00+08:00</lastmod>
