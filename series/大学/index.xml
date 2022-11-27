@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>大学 on 不住色</title>
-    <link>/series/%E5%A4%A7%E5%AD%A6/</link>
+    <link>https://www.buzhuse.com/series/%E5%A4%A7%E5%AD%A6/</link>
     <description>Recent content in 大学 on 不住色</description>
     <image>
-      <url>/papermod-cover.png</url>
-      <link>/papermod-cover.png</link>
+      <url>https://www.buzhuse.com/papermod-cover.png</url>
+      <link>https://www.buzhuse.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="/series/%E5%A4%A7%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 10:50:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/series/%E5%A4%A7%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《大学》</title>
-      <link>/posts/jingdian/daxue/</link>
+      <link>https://www.buzhuse.com/posts/jingdian/daxue/</link>
       <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/posts/jingdian/daxue/</guid>
+      <guid>https://www.buzhuse.com/posts/jingdian/daxue/</guid>
       <description>大学之道，在明明德，在亲民，在止于至善。</description>
     </item>
     

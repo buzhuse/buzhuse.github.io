@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>佛家 on 不住色</title>
-    <link>/tags/%E4%BD%9B%E5%AE%B6/</link>
+    <link>https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/</link>
     <description>Recent content in 佛家 on 不住色</description>
     <image>
-      <url>/papermod-cover.png</url>
-      <link>/papermod-cover.png</link>
+      <url>https://www.buzhuse.com/papermod-cover.png</url>
+      <link>https://www.buzhuse.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 04 Sep 2022 09:20:00 +0800</lastBuildDate><atom:link href="/tags/%E4%BD%9B%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 09:20:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《般若波罗蜜多心经》</title>
-      <link>/posts/jingdian/xinjing/</link>
+      <link>https://www.buzhuse.com/posts/jingdian/xinjing/</link>
       <pubDate>Sun, 04 Sep 2022 09:20:00 +0800</pubDate>
       
-      <guid>/posts/jingdian/xinjing/</guid>
+      <guid>https://www.buzhuse.com/posts/jingdian/xinjing/</guid>
       <description>观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。</description>
     </item>
     

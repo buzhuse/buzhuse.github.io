@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文章標簽 on 不住色</title>
-    <link>/zht/tags/</link>
+    <link>https://www.buzhuse.com/zht/tags/</link>
     <description>Recent content in 文章標簽 on 不住色</description>
     <image>
-      <url>/papermod-cover.png</url>
-      <link>/papermod-cover.png</link>
+      <url>https://www.buzhuse.com/papermod-cover.png</url>
+      <link>https://www.buzhuse.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Sun, 27 Nov 2022 08:00:00 +0800</lastBuildDate><atom:link href="/zht/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 08:00:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>果報</title>
-      <link>/zht/tags/%E6%9E%9C%E5%A0%B1/</link>
+      <link>https://www.buzhuse.com/zht/tags/%E6%9E%9C%E5%A0%B1/</link>
       <pubDate>Sun, 27 Nov 2022 08:00:00 +0800</pubDate>
       
-      <guid>/zht/tags/%E6%9E%9C%E5%A0%B1/</guid>
+      <guid>https://www.buzhuse.com/zht/tags/%E6%9E%9C%E5%A0%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>佛家</title>
-      <link>/zht/tags/%E4%BD%9B%E5%AE%B6/</link>
+      <link>https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/</link>
       <pubDate>Sun, 04 Sep 2022 09:20:00 +0800</pubDate>
       
-      <guid>/zht/tags/%E4%BD%9B%E5%AE%B6/</guid>
+      <guid>https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>養生</title>
-      <link>/zht/tags/%E9%A4%8A%E7%94%9F/</link>
+      <link>https://www.buzhuse.com/zht/tags/%E9%A4%8A%E7%94%9F/</link>
       <pubDate>Mon, 29 Aug 2022 16:00:00 +0800</pubDate>
       
-      <guid>/zht/tags/%E9%A4%8A%E7%94%9F/</guid>
+      <guid>https://www.buzhuse.com/zht/tags/%E9%A4%8A%E7%94%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>懺悔</title>
-      <link>/zht/tags/%E6%87%BA%E6%82%94/</link>
+      <link>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</link>
       <pubDate>Sun, 15 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/zht/tags/%E6%87%BA%E6%82%94/</guid>
+      <guid>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>儒家</title>
-      <link>/zht/tags/%E5%84%92%E5%AE%B6/</link>
+      <link>https://www.buzhuse.com/zht/tags/%E5%84%92%E5%AE%B6/</link>
       <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/zht/tags/%E5%84%92%E5%AE%B6/</guid>
+      <guid>https://www.buzhuse.com/zht/tags/%E5%84%92%E5%AE%B6/</guid>
       <description></description>
     </item>
     

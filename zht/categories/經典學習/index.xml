@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>經典學習 on 不住色</title>
-    <link>/zht/categories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/</link>
+    <link>https://www.buzhuse.com/zht/categories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/</link>
     <description>Recent content in 經典學習 on 不住色</description>
     <image>
-      <url>/papermod-cover.png</url>
-      <link>/papermod-cover.png</link>
+      <url>https://www.buzhuse.com/papermod-cover.png</url>
+      <link>https://www.buzhuse.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Sun, 04 Sep 2022 09:20:00 +0800</lastBuildDate><atom:link href="/zht/categories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 09:20:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/categories/%E7%B6%93%E5%85%B8%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《般若波羅蜜多心經》</title>
-      <link>/zht/posts/jingdian/xinjing/</link>
+      <link>https://www.buzhuse.com/zht/posts/jingdian/xinjing/</link>
       <pubDate>Sun, 04 Sep 2022 09:20:00 +0800</pubDate>
       
-      <guid>/zht/posts/jingdian/xinjing/</guid>
+      <guid>https://www.buzhuse.com/zht/posts/jingdian/xinjing/</guid>
       <description>觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。。</description>
     </item>
     
     <item>
       <title>《大學》</title>
-      <link>/zht/posts/jingdian/daxue/</link>
+      <link>https://www.buzhuse.com/zht/posts/jingdian/daxue/</link>
       <pubDate>Fri, 13 May 2022 10:50:00 +0800</pubDate>
       
-      <guid>/zht/posts/jingdian/daxue/</guid>
+      <guid>https://www.buzhuse.com/zht/posts/jingdian/daxue/</guid>
       <description>大學之道，在明明德，在親民，在止於至善。</description>
     </item>
     
