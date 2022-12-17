@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.buzhuse.com/zht/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/tags/%E5%8D%B1%E5%AE%B3/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/series/%E5%8D%B1%E5%AE%B3/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/categories/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/posts/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/tags/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/series/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
@@ -91,6 +91,45 @@
                 rel="alternate"
                 hreflang="zht"
                 href="https://www.buzhuse.com/zht/series/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/zht/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/</loc>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/zht/posts/weihai/</loc>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/posts/weihai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/posts/weihai/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/zht/posts/weihai/2022/huangshixiong/</loc>
+    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/posts/weihai/2022/huangshixiong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/posts/weihai/2022/huangshixiong/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/posts/weihai/2022/xinhuang/</loc>
@@ -104,32 +143,6 @@
                 rel="alternate"
                 hreflang="zht"
                 href="https://www.buzhuse.com/zht/posts/weihai/2022/xinhuang/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/zht/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/zht/posts/weihai/</loc>
-    <lastmod>2022-11-27T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/posts/weihai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/posts/weihai/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/zht/posts/jingdian/xinjing/</loc>
