@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.buzhuse.com/</loc>
-    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -13,6 +13,113 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="https://www.buzhuse.com/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/posts/jiese/2022/yangzheng-13-fa/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/posts/jiese/2022/yangzheng-13-fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/posts/jiese/2022/yangzheng-13-fa/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/series/%E5%AF%BF%E5%BA%B7%E5%AE%9D%E9%89%B4/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.buzhuse.com/tags/%E6%88%92%E8%89%B2/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/tags/%E6%88%92%E8%89%B2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/tags/%E6%88%92%E8%89%B2/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/categories/%E6%88%92%E8%89%B2%E4%B9%8B%E8%B7%AF/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/categories/%E6%88%92%E8%89%B2%E4%B9%8B%E8%B7%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/categories/%E6%88%92%E8%89%B2%E4%B9%8B%E8%B7%AF/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/posts/jiese/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/posts/jiese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/posts/jiese/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/categories/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/categories/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/posts/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/posts/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/tags/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/series/</loc>
+    <lastmod>2022-12-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/series/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/tags/%E5%8D%B1%E5%AE%B3/</loc>
@@ -39,58 +146,6 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="https://www.buzhuse.com/series/%E5%8D%B1%E5%AE%B3/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/categories/</loc>
-    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/categories/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/posts/</loc>
-    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/posts/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/tags/</loc>
-    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/tags/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/series/</loc>
-    <lastmod>2022-12-17T08:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/series/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/categories/%E9%82%AA%E6%B7%AB%E5%8D%B1%E5%AE%B3/</loc>
@@ -309,18 +364,6 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="https://www.buzhuse.com/posts/xiuxing/"
-                />
-  </url><url>
-    <loc>https://www.buzhuse.com/posts/jiese/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/posts/jiese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/posts/jiese/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/search/</loc>
