@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>佛家 on 不住色</title>
-    <link>https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/</link>
-    <description>Recent content in 佛家 on 不住色</description>
+    <title>楞嚴經 on 不住色</title>
+    <link>https://www.buzhuse.com/zht/series/%E6%A5%9E%E5%9A%B4%E7%B6%93/</link>
+    <description>Recent content in 楞嚴經 on 不住色</description>
     <image>
       <url>https://www.buzhuse.com/papermod-cover.png</url>
       <link>https://www.buzhuse.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Sat, 31 Dec 2022 08:00:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 08:00:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/series/%E6%A5%9E%E5%9A%B4%E7%B6%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>楞嚴經四種清淨明誨</title>
       <link>https://www.buzhuse.com/zht/posts/jingdian/qingjingminghui/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://www.buzhuse.com/zht/posts/jingdian/qingjingminghui/</guid>
       <description>（2022 年 12 月 31 日整理自「佛弟子文庫」）</description>
-    </item>
-    
-    <item>
-      <title>《般若波羅蜜多心經》</title>
-      <link>https://www.buzhuse.com/zht/posts/jingdian/xinjing/</link>
-      <pubDate>Sun, 04 Sep 2022 09:20:00 +0800</pubDate>
-      
-      <guid>https://www.buzhuse.com/zht/posts/jingdian/xinjing/</guid>
-      <description>觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。</description>
     </item>
     
   </channel>
