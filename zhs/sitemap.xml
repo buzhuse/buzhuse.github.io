@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.buzhuse.com/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -15,21 +15,27 @@
                 href="https://www.buzhuse.com/"
                 />
   </url><url>
-    <loc>https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <loc>https://www.buzhuse.com/categories/%E5%85%BB%E7%94%9F%E4%B9%8B%E9%81%93/</loc>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.buzhuse.com/posts/yangsheng/</loc>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
-                href="https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/"
+                href="https://www.buzhuse.com/zht/posts/yangsheng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zhs"
-                href="https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/"
+                href="https://www.buzhuse.com/posts/yangsheng/"
                 />
   </url><url>
+    <loc>https://www.buzhuse.com/posts/yangsheng/2023/jiaolv-kangfu-borry/</loc>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://www.buzhuse.com/categories/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -42,7 +48,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/posts/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -55,7 +61,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/tags/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -68,7 +74,7 @@
                 />
   </url><url>
     <loc>https://www.buzhuse.com/series/</loc>
-    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zht"
@@ -78,6 +84,25 @@
                 rel="alternate"
                 hreflang="zhs"
                 href="https://www.buzhuse.com/series/"
+                />
+  </url><url>
+    <loc>https://www.buzhuse.com/tags/%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E5%BA%B7%E5%A4%8D/</loc>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.buzhuse.com/series/%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81%E5%BA%B7%E5%A4%8D/</loc>
+    <lastmod>2023-04-19T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/</loc>
+    <lastmod>2022-12-31T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zht"
+                href="https://www.buzhuse.com/zht/tags/%E4%BD%9B%E5%AE%B6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zhs"
+                href="https://www.buzhuse.com/tags/%E4%BD%9B%E5%AE%B6/"
                 />
   </url><url>
     <loc>https://www.buzhuse.com/series/%E6%A5%9E%E4%B8%A5%E7%BB%8F/</loc>
@@ -344,22 +369,6 @@
   </url><url>
     <loc>https://www.buzhuse.com/series/%E5%85%BB%E7%94%9F/</loc>
     <lastmod>2022-08-29T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.buzhuse.com/categories/%E5%85%BB%E7%94%9F%E4%B9%8B%E9%81%93/</loc>
-    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://www.buzhuse.com/posts/yangsheng/</loc>
-    <lastmod>2022-08-29T16:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zht"
-                href="https://www.buzhuse.com/zht/posts/yangsheng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zhs"
-                href="https://www.buzhuse.com/posts/yangsheng/"
-                />
   </url><url>
     <loc>https://www.buzhuse.com/posts/yangsheng/2022/niaofeishi/</loc>
     <lastmod>2022-08-29T16:00:00+08:00</lastmod>
