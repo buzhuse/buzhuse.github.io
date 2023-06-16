@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Mon, 12 Jun 2023 08:00:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 08:00:00 +0800</lastBuildDate><atom:link href="https://www.buzhuse.com/zht/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>懺悔</title>
+      <link>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</link>
+      <pubDate>Fri, 16 Jun 2023 08:00:00 +0800</pubDate>
+      
+      <guid>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>道家</title>
       <link>https://www.buzhuse.com/zht/tags/%E9%81%93%E5%AE%B6/</link>
@@ -71,15 +80,6 @@
       <pubDate>Mon, 29 Aug 2022 16:00:00 +0800</pubDate>
       
       <guid>https://www.buzhuse.com/zht/tags/%E9%A4%8A%E7%94%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>懺悔</title>
-      <link>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</link>
-      <pubDate>Thu, 16 Jun 2022 08:00:00 +0800</pubDate>
-      
-      <guid>https://www.buzhuse.com/zht/tags/%E6%87%BA%E6%82%94/</guid>
       <description></description>
     </item>
     
